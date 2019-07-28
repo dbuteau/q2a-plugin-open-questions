@@ -26,7 +26,7 @@
 	More about this license: http://www.question2answer.org/license.php
 */
 
-require_once QA_INCLUDE_DIR.'qa-app-q-list.php';
+require_once QA_INCLUDE_DIR.'app/q-list.php';
 
 
 class qa_open_qustions {
